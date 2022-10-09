@@ -1,0 +1,5 @@
+.cart-pricing{
+    display:flex;
+    justify-content:space-between;
+    margin-right:45px;
+}

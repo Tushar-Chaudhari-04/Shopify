@@ -1,0 +1,15 @@
+.countdown-display{
+    background: linear-gradient(to bottom left, #ffff00 0%, #ff33cc 100%);
+    /* background: linear-gradient(to bottom left, #0066ff 0%, #66ff66 100%); */
+}
+
+.countdown{
+    padding:40px 20px 30px 150px;
+}
+
+.counter{
+    padding:20px 20px 0px 0px;
+    font-size:40px;
+    color:black;              /*#fb641b;*/
+    font-weight:600;
+}

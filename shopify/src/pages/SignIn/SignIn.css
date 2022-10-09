@@ -1,0 +1,46 @@
+.signin-page{
+    margin-top:6%;
+}
+
+.signin-heading{
+    margin-left:46%;
+}
+
+.signin{
+    display:flex;
+    height:20%;
+}
+
+.signin-main{
+    margin-left:20%;
+    width:40%;
+    height:100vh;
+    padding:20px;
+}
+
+.signin-img{
+    width:25%;
+    height:80vh;
+    padding:15px;
+
+}
+
+.signin-image{
+    height:80%;
+}
+
+.signin-btn{
+    font-weight:500;
+    font-size:20px;
+    width:300px;
+    padding:15px;
+    margin-left:15%;
+    margin-top:2%;
+} 
+
+.signup-link{
+    text-decoration: none;
+    margin-top:30px;
+    font-weight:600;
+    font-size:18px;
+}

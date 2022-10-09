@@ -1,0 +1,13 @@
+.checkout-gateway-main{
+    width:58rem;
+    padding:27px;
+    margin:20px 5px 20px 20px; 
+}
+
+.checkout-title{
+    background-color:#2874f0;
+    color:#fff;
+    height:50px;
+    font-weight:600;
+    padding:10px;
+}

@@ -1,0 +1,32 @@
+.mobile-spec{
+    display:flex;
+    justify-content:left;
+}
+
+.mobile-storage-main{
+    display:flex;
+}
+
+.mobile-storage{
+    display:flex;
+    border:2px dotted grey; 
+    margin:0 15px;
+    padding:5px;
+}
+
+
+.mobile-ram-main{
+    display:flex;
+    margin-left:80px;
+}
+
+.mobile-ram{
+    display:flex;
+    border:2px dotted grey; 
+    margin:0 15px;
+    padding:5px;
+}
+
+.mobile-spec-highlights{
+   margin-top:25px;
+}

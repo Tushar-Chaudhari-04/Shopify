@@ -1,0 +1,33 @@
+.product-card-main{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin:0 30px;
+    padding:40px;
+}
+
+.watchImg{
+    justify-content:center;
+    align-items:center;
+    margin-left:170px;
+    padding:20px;
+}
+
+.emiImg{
+    justify-content:center;
+    margin-left:70px;
+    padding:30px;
+}
+
+.product-card-handel{
+    display:flex;
+    justify-content:space-between;
+    margin:15px;
+}
+
+.product-bottom-card{
+    display:flex;
+    justify-content:space-between;
+    padding:15px;
+    
+}

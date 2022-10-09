@@ -1,0 +1,44 @@
+*{
+   padding:0;
+   margin:0;
+}
+
+.signup-page{
+    margin-top:6%;
+}
+
+.signup-heading{
+    margin-left:40%;
+}
+
+.signup{
+    display:flex;
+    height:20%;
+}
+
+.signup-main{
+    margin-left:20%;
+    width:40%;
+    height:100vh;
+    padding:20px;
+}
+
+.signup-img{
+    width:20%;
+    height:100vh;
+    padding:15px;
+
+}
+
+.signup-image{
+    height:80%;
+}
+
+.signup-btn{
+    font-weight:500;
+    font-size:20px;
+    width:350px;
+    padding:15px;
+    margin-left:15%;
+    margin-top:2%;
+} 
